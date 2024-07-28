@@ -1,6 +1,8 @@
-### Hi there 👋, Mehmet Şenel
-#### Data Scientist and Python Developer 
 ![Data Scientist and Python Developer ](https://media.licdn.com/dms/image/D4D16AQF4WJ-xKtN3ew/profile-displaybackgroundimage-shrink_350_1400/0/1681817583008?e=1727913600&v=beta&t=5-hUlsoramrDRUpITnWgXXcDtIVUAO_jTFjaVyyRPr4)
+
+
+###  Mehmet Şenel
+#### Data Scientist and Python Developer 
 
 I'm Mehmet from Turkey , I am a data scientist and software developer.I study at Hacettepe University.
 
