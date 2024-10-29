@@ -16,7 +16,7 @@
   
 
 <br/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -61,7 +61,7 @@
 </td></tr></table>  
 
 <br/>  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/SirMsenel/github-readme-stats)
 
 ## Connect with me  
 <div align="center">
