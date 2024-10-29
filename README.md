@@ -84,7 +84,13 @@
 </td></tr></table>  
 
 <br/>  
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+İşte benim GitHub istatistiklerim:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirMsenel&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## En Çok Kullandığım Diller
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel&layout=compact&theme=radical)
+
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
