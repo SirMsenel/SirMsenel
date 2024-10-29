@@ -84,8 +84,7 @@
 </td></tr></table>  
 
 <br/>  
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
