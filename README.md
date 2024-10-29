@@ -86,6 +86,7 @@
 <br/>  
 ## En Çok Kullandığım Diller
 <p align="center">
+  ## En Çok Kullandığım Diller
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 <br/>  
