@@ -61,7 +61,7 @@
 </td></tr></table>  
 
 <br/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenelra&layout=compact)](https://github.com/SirMsenel/github-readme-stats)
+
 
 ## Connect with me  
 <div align="center">
