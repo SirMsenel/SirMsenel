@@ -84,10 +84,10 @@
 </td></tr></table>  
 
 <br/>  
-
 ## En Çok Kullandığım Diller
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
