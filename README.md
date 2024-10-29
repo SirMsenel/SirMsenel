@@ -83,10 +83,11 @@
 
 </td></tr></table>  
 
-<br/>  
-## En Çok Kullandığım Diller
+<br/> 
 <p align="center">
-  ## En Çok Kullandığım Diller
+## En Çok Kullandığım Diller
+  </p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirMsenel&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 <br/>  
