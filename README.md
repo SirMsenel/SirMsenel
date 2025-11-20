@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQF4WJ-xKtN3ew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681817583008?e=1740614400&v=beta&t=7yT6PQBfsdhxTnlpMKrvn7TsOj7g-ESqYL3Tf8pwNdk" align="center" style="width: 100%" />
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D4D16AQF4WJ-xKtN3ew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681817583008?e=1765411200&v=beta&t=hjdPZhjRdYtSgi3PeeKToJvQb0QK6aO4ARICnXOFg_k" 
+    align="center" 
+    style="width: 100%" 
+    alt="Profile Banner"
+/>
 </div>  
-  
 
 ### <div align="center">I am a data scientist and software developer.</div>  
   
